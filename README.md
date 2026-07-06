@@ -57,7 +57,6 @@
 - 🗄 SQL Server
 - 🏛 Oracle Database
 - 🐍 Python
-- 📱 Flutter
 - ⚙️ Automação de Processos
 - 🤖 Inteligência Artificial
 
