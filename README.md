@@ -4,8 +4,9 @@
 
 ### 📊 Data Analyst | Business Intelligence | Python | SQL | Power BI
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=650&lines=Transformando+dados+em+decisões.;Business+Intelligence+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI;Sempre+aprendendo+novas+tecnologias." />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Arthur+Loyola!;Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+Server+%7C+Oracle;Power+BI+%7C+DAX+%7C+Power+Query;Sempre+aprendendo+novas+tecnologias." alt="Typing SVG" />
+</p>
 </div>
 
 ---
@@ -34,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,docker,flutter,dart,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql"/>
 
 <br><br>
 
@@ -42,11 +43,8 @@
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Oraclesql oracle
+  -F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </div>
 
@@ -82,9 +80,5 @@
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Arthurloyola&color=blue&style=for-the-badge)
-
-### ⭐ "Data is only valuable when it becomes knowledge."
 
 </div>
