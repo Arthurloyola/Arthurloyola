@@ -52,46 +52,6 @@
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arthurloyola&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurloyola&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Arthurloyola&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-```text
-✔ Engenharia de Dados
-
-✔ Inteligência Artificial
-
-✔ Python para Dados
-
-✔ Arquitetura de Soluções
-
-✔ Cloud Computing
-
-✔ Business Intelligence
-```
-
----
-
 # 📌 Áreas de atuação
 
 - 📊 Data Analytics
@@ -109,11 +69,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/SEU_LINK">
+<a href="https://linkedin.com/in/[SEU_LINK](https://www.linkedin.com/in/arthur-loyola-4688881b5/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:arthurloyolasoares@gmail.comL">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
