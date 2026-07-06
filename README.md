@@ -69,11 +69,11 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/[SEU_LINK](https://www.linkedin.com/in/arthur-loyola-4688881b5/)">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/arthur-loyola-4688881b5/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:arthurloyolasoares@gmail.comL">
+<a href="mailto:arthurloyolasoares@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
